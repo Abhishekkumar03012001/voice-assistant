@@ -59,4 +59,4 @@ If you want to contribute to this project, follow these steps:
 5. Submit a pull request.
 
 ## Support
-If you encounter any issues or have any questions, feel free to [open an issue](https://github.com/your-username/your-repository/issues) or contact me at [your-20bme109@nith.ac.in](mailto:20bme109@nith.ac.in).
+If you encounter any issues or have any questions, feel free to [post an Issue](https://github.com/Abhishekkumar03012001/voice-assistant/blob/main/Issue) or contact me at [20bme109@nith.ac.in](mailto:20bme109@nith.ac.in).
