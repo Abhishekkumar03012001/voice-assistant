@@ -17,9 +17,9 @@ Voice Assistant is a Python-based virtual assistant that uses speech recognition
 ## Usage
 
 1. Run the script: `python voice_assistant.py`
-2. The voice assistant will greet you and ask for your name.
+2. The voice assistant will greet you and ask about you.
 3. You can interact with the assistant by speaking commands or typing them in the command line.
-4. The assistant can perform a variety of tasks such as searching Wikipedia, opening websites, playing music, sending emails, and more. Simply speak or type your command, and the assistant will respond accordingly.
+4. The assistant can perform a variety of tasks such as searching Wikipedia, opening websites, playing music, sending emails, use Chatgpt and more. Simply speak or type your command, and the assistant will respond accordingly.
 
 ## Features
 
